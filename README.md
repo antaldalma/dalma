@@ -1,0 +1,2 @@
+# dalma
+Ez Dalmácska repója.
